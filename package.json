@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/n1ckdm/random-desserts/issues"
   },
-  "homepage": "https://github.com/n1ckdm/random-desserts#readme"
+  "homepage": "https://github.com/n1ckdm/random-desserts#readme",
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  }
 }
