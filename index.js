@@ -10,6 +10,6 @@ module.exports.desserts = desserts;
 
 module.exports.getRandomDessertsName = () => {
     const rng = seedrandom();
-    const index = Math.floor(rng() * (desserts.length - 1));
+    const index = Math.ceil(rng() * desserts.length - 1);
     return desserts[index];
 };
