@@ -6,7 +6,7 @@ const desserts = [
     'gateau'
 ];
 
-export function getRandomDessertsName() {
+module.exports.getRandomDessertsName = () => {
     const rng = seedrandom();
     const index = Math.floor(rng) * desserts.length();
     return desserts[index];
