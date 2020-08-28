@@ -1,6 +1,6 @@
 # Random Fruits name
 
-[![Build Status](https://travis-ci.org/shinshin86/random-fruits-name.js.svg?branch=master)](https://travis-ci.org/shinshin86/random-fruits-name.js)
+[![Build Status](https://travis-ci.org/n1ckdm/random-desserts.svg?branch=master)](https://travis-ci.org/n1ckdm/random-desserts)
 
 Generate the names of random desserts 🦄.
 
