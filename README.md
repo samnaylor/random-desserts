@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/shinshin86/random-fruits-name.js.svg?branch=master)](https://travis-ci.org/shinshin86/random-fruits-name.js)
 
-Generate the names of random desserts.
+Generate the names of random desserts 🦄.
 
 ## Install
 
