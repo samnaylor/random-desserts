@@ -1,7 +1,7 @@
 {
-  "name": "random-deserts",
+  "name": "random-desserts",
   "version": "0.0.1",
-  "description": "Generate random desert names",
+  "description": "Generate random dessert names",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
   "author": "Nick Martin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/n1ckdm/random-deserts/issues"
+    "url": "https://github.com/n1ckdm/random-desserts/issues"
   },
-  "homepage": "https://github.com/n1ckdm/random-deserts#readme"
+  "homepage": "https://github.com/n1ckdm/random-desserts#readme"
 }
