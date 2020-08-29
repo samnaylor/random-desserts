@@ -1,4 +1,4 @@
-# Random Fruits name
+# Random Desserts
 
 [![Build Status](https://travis-ci.org/n1ckdm/random-desserts.svg?branch=master)](https://travis-ci.org/n1ckdm/random-desserts)
 
