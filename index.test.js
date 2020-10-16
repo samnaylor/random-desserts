@@ -40,6 +40,13 @@ it('gets N unique deserts at once', () => {
     });
 });
 
+it('pretty prints a dessert', () => {
+    const dessert = 'jaffa-cake';
+    const pretty  = rd.prettyPrint(dessert);
+    
+    expect(pretty).toBe('Jaffa Cake');
+});
+
 it('should fail', () => {
     const check = () => rd.rollN(rd.desserts.length + 1);
     expect(check).toThrow(RangeError);
