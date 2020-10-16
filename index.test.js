@@ -42,7 +42,7 @@ it('gets N unique deserts at once', () => {
 
 it('pretty prints a dessert', () => {
     const dessert = 'jaffa-cake';
-    const pretty  = rd.prettyPrint(dessert);
+    const pretty  = rd.prettyDessert(dessert);
     
     expect(pretty).toBe('Jaffa Cake');
 });
