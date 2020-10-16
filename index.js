@@ -64,6 +64,16 @@ const rollN = (N) => {
     return res
 };
 
+const prettyDessert = (dessert) => {
+    return (
+        dessert
+            .split('-')
+            .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+            .join(' ')
+            .trim()
+    );
+}
+
 module.exports.rollThree = () => {
     return rollN(3);
 };
@@ -73,3 +83,4 @@ module.exports.getRandomDessertsName = () => rollN(1);
 module.exports.getRandomDessert = () => rollN(1);
 module.exports.roll = () => rollN(1);
 module.exports.rollN = rollN;
+module.exports.prettyDessert = prettyDessert;
