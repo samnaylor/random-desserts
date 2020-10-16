@@ -10,6 +10,7 @@ const desserts = [
     'cake',
     'cupcake',
     'cookie',
+    'chocolate-orange-fudge-cake',
     'doughnut',
     'eaton-mess',
     'eccles-cake',
